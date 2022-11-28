@@ -1,0 +1,678 @@
+[
+  {
+    "id": 1,
+    "name": "Walter White",
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
+    "nickname": "Heisenberg",
+    "status": "Presumed dead",
+    "occupation": ["High School Chemistry Teacher", "Meth King Pin"],
+    "birthday": "09-07-1958",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 2,
+    "name": "Jesse Pinkman",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/9/95/JesseS5.jpg/revision/latest?cb=20120620012441",
+    "nickname": "Cap n' Cook",
+    "status": "Alive",
+    "occupation": ["Meth Dealer"],
+    "birthday": "09-24-1984",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 3,
+    "name": "Skyler White",
+    "image": "https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
+    "nickname": "Sky",
+    "status": "Alive",
+    "occupation": [
+      "House wife",
+      "Book Keeper",
+      "Car Wash Manager",
+      "Taxi Dispatcher"
+    ],
+    "birthday": "08-11-1970",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 4,
+    "name": "Walter White Jr.",
+    "image": "https://media1.popsugar-assets.com/files/thumbor/WeLUSvbAMS_GL4iELYAUzu7Bpv0/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/01/12/910/n/1922283/fb758e62b5daf3c9_TCDBRBA_EC011/i/RJ-Mitte-Walter-White-Jr.jpg",
+    "nickname": "Flynn",
+    "status": "Alive",
+    "occupation": ["Teenager"],
+    "birthday": "07-08-1993",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 5,
+    "name": "Henry Schrader",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/b/b7/HankS5.jpg/revision/latest/scale-to-width-down/700?cb=20120620014136",
+    "nickname": "Hank",
+    "status": "Deceased",
+    "occupation": ["DEA Agent"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 6,
+    "name": "Marie Schrader",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/1/10/Season_2_-_Marie.jpg/revision/latest?cb=20120617211645",
+    "nickname": "Marie",
+    "status": "Alive",
+    "occupation": ["Housewife", "Clepto"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 7,
+    "name": "Mike Ehrmantraut",
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_mike-ehrmantraut-lg.jpg",
+    "nickname": "Mike",
+    "status": "Deceased",
+    "occupation": ["Hitman", "Private Investigator", "Ex-Cop"],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4, 5]
+  },
+  {
+    "id": 8,
+    "name": "Saul Goodman",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/1/16/Saul_Goodman.jpg/revision/latest?cb=20120704065846",
+    "nickname": "Jimmy McGill",
+    "status": "Alive",
+    "occupation": ["Lawyer"],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4, 5]
+  },
+  {
+    "id": 9,
+    "name": "Gustavo Fring",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/1/1f/BCS_S4_Gustavo_Fring.jpg/revision/latest?cb=20180824195925",
+    "nickname": "Gus",
+    "status": "Deceased",
+    "occupation": ["Los-Pollos co-Founder", "Philanthropist", "Cartel Leader"],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4]
+  },
+  {
+    "id": 10,
+    "name": "Hector Salamanca",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/b/b4/Hector_BCS.jpg/revision/latest?cb=20170810091606",
+    "nickname": "Don Hector",
+    "status": "Deceased",
+    "occupation": ["Former Senior Cartel Leader"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3, 4]
+  },
+  {
+    "id": 11,
+    "name": "Domingo Molina",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/e/e7/Krazy8.png/revision/latest?cb=20130208041554",
+    "nickname": "Krazy-8",
+    "status": "Deceased",
+    "occupation": ["Meth Distributor"],
+    "birthday": "Unknown",
+    "appearance": [1]
+  },
+  {
+    "id": 12,
+    "name": "Tuco Salamanca",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/a/a7/Tuco_BCS.jpg/revision/latest?cb=20170810082445",
+    "nickname": "Tuco",
+    "status": "Deceased",
+    "occupation": ["Meth Distributor"],
+    "birthday": "Unknown",
+    "appearance": [1, 2]
+  },
+  {
+    "id": 13,
+    "name": "Marco & Leonel Salamanca",
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_the-cousins-lg.jpg",
+    "nickname": "The Cousins",
+    "status": "Deceased",
+    "occupation": ["Cartel Hitman"],
+    "birthday": "Unknown",
+    "appearance": [3]
+  },
+  {
+    "id": 14,
+    "name": "Lydia Rodarte-Quayle",
+    "image": "https://media1.popsugar-assets.com/files/thumbor/wERDST0TUb-iHCSb2r5ZpsvaZLo/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2013/07/17/675/n/1922283/fae2f583f04bb80f_Laura-Fraser-is-back-as-Lydia-Rodarte-Quayle_gallery_primary/i/Laura-Fraser-Lydia-Rodarte-Quayle.jpg",
+    "nickname": "Lydia",
+    "status": "Deceased",
+    "occupation": ["Executive at Madrigal"],
+    "birthday": "Unknown",
+    "appearance": [5]
+  },
+  {
+    "id": 15,
+    "name": "Todd Alquist",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/9/95/Todd_brba5b.png/revision/latest?cb=20130717134303",
+    "nickname": "Ricky Hitler",
+    "status": "Deceased",
+    "occupation": ["Lab Assistant", "Enforcer", "Meth Cook"],
+    "birthday": "Unknown",
+    "appearance": [5]
+  },
+  {
+    "id": 16,
+    "name": "Jane Margolis",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/b/b4/Jane.jpg/revision/latest?cb=20090621233653",
+    "nickname": "Apology Girl",
+    "status": "Deceased",
+    "occupation": ["Tattoo Artist", "Landlord"],
+    "birthday": "Unknown",
+    "appearance": [2]
+  },
+  {
+    "id": 17,
+    "name": "Skinny Pete",
+    "image": "https://vignette.wikia.nocookie.net/breaking-bad-tv/images/c/ce/Sp.png/revision/latest?cb=20121016143623",
+    "nickname": "Skinny",
+    "status": "Alive",
+    "occupation": ["Low-level meth distributer"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 18,
+    "name": "Brandon Mayhew",
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_badger-lg.jpg",
+    "nickname": "Badger",
+    "status": "Alive",
+    "occupation": ["Low-level meth distributer"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 19,
+    "name": "Huell Babineaux",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/c/c1/4x11_-_Huell.png/revision/latest?cb=20130913100459&path-prefix=es",
+    "nickname": "Huell",
+    "status": "Alive",
+    "occupation": ["Bodyguard"],
+    "birthday": "Unknown",
+    "appearance": [4, 5]
+  },
+  {
+    "id": 20,
+    "name": "Steven Gomez",
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_steven-gomez-lg.jpg",
+    "nickname": "Gomie",
+    "status": "Deceased",
+    "occupation": ["DEA Agent"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 21,
+    "name": "Theodore Beneke",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/b/bd/Cast_bb_700x1000_todd-beneke-lg.jpg/revision/latest?cb=20170723165057",
+    "nickname": "Ted",
+    "status": "Alive",
+    "occupation": ["Former President Beneke Fabricators"],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4, 5]
+  },
+  {
+    "id": 22,
+    "name": "Gale Boetticher",
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_gale-boetticher-lg.jpg",
+    "nickname": "GB",
+    "status": "Deceased",
+    "occupation": ["Chemist", "Meth manufacturer"],
+    "birthday": "Unknown",
+    "appearance": [3]
+  },
+  {
+    "id": 23,
+    "name": "Andrea Cantillo",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/5/51/Andrea_-_To%27hajilee.png/revision/latest?cb=20131025094457",
+    "nickname": "Andrea",
+    "status": "Deceased",
+    "occupation": ["Unknown"],
+    "birthday": "Unknown",
+    "appearance": [3, 4, 5]
+  },
+  {
+    "id": 24,
+    "name": "Brock Cantillo",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/9/97/Brock.png/revision/latest?cb=20170725193144",
+    "nickname": "Brock",
+    "status": "Alive",
+    "occupation": ["Kid"],
+    "birthday": "Unknown",
+    "appearance": [3, 4, 5]
+  },
+  {
+    "id": 25,
+    "name": "Carmen Molina",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/d/de/Carmen.JPG/revision/latest?cb=20100410125233",
+    "nickname": "Carmen",
+    "status": "Alive",
+    "occupation": ["High School Principal"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3, 5]
+  },
+  {
+    "id": 26,
+    "name": "Gretchen Schwartz",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/5/5e/Gretchen_Schwartz.png/revision/latest?cb=20131005103735&path-prefix=es",
+    "nickname": "Gretchen",
+    "status": "Alive",
+    "occupation": ["Co-owner Gray Matter"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 5]
+  },
+  {
+    "id": 27,
+    "name": "Elliot Schwartz",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/8/8a/Elliott_Schwartz.png/revision/latest?cb=20131005103743&path-prefix=es",
+    "nickname": "Elliot",
+    "status": "Alive",
+    "occupation": ["Co-Founder Gray Matter"],
+    "birthday": "Unknown",
+    "appearance": [1, 5]
+  },
+  {
+    "id": 28,
+    "name": "Gonzo",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/d/d6/Gonzo.JPG/revision/latest?cb=20100415212944",
+    "nickname": "Gonzo",
+    "status": "Deceased",
+    "occupation": ["Tuco's Bodyguard"],
+    "birthday": "Unknown",
+    "appearance": [1, 2]
+  },
+  {
+    "id": 29,
+    "name": "Christian Ortgea",
+    "image": "https://res.cloudinary.com/dwvrok1le/image/upload/v1540314304/c8acek3pimb0hb4efrvf.jpg",
+    "nickname": "Combo",
+    "status": "Deceased",
+    "occupation": ["Low-level meth distributor"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3]
+  },
+  {
+    "id": 30,
+    "name": "Mrs. Pinkman",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/a/a2/Tess_Harper.jpg/revision/latest?cb=20120923235754",
+    "nickname": "Jesse's mom",
+    "status": "Alive",
+    "occupation": ["unknown"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3]
+  },
+  {
+    "id": 31,
+    "name": "Adam Pinkman",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/c/c9/AdamPinkman.png/revision/latest?cb=20141117180836&path-prefix=es",
+    "nickname": "Jesse's dad",
+    "status": "Alive",
+    "occupation": ["unknown"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3]
+  },
+  {
+    "id": 32,
+    "name": "Jake Pinkman",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/a/a4/Jake.jpg/revision/latest?cb=20121214201656&path-prefix=de",
+    "nickname": "Jake",
+    "status": "Alive",
+    "occupation": ["Kid", "Jesse's little brother"],
+    "birthday": "Unknown",
+    "appearance": [1]
+  },
+  {
+    "id": 33,
+    "name": "No-Doze",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/c/ca/No_Doze_2.png/revision/latest?cb=20131014073210",
+    "nickname": "No-Doze",
+    "status": "Deceased",
+    "occupation": ["Juarez Cartel Lieutenant"],
+    "birthday": "Unknown",
+    "appearance": [1, 2]
+  },
+  {
+    "id": 34,
+    "name": "Emilio Koyama",
+    "image": "https://vignette.wikia.nocookie.net/trbreakingbad/images/9/9c/Emilio.jpeg/revision/latest?cb=20161029192022",
+    "nickname": "Emilio",
+    "status": "Deceased",
+    "occupation": ["Low-level meth distributor"],
+    "birthday": "Unknown",
+    "appearance": [1]
+  },
+  {
+    "id": 35,
+    "name": "Dr. Delcavoli",
+    "image": "https://res.cloudinary.com/dwvrok1le/image/upload/v1540314509/lj5qlbe6xvmmpxnspz6y.jpg",
+    "nickname": "Dr. Delcavoli",
+    "status": "Alive",
+    "occupation": ["Physician"],
+    "birthday": "Unknown",
+    "appearance": [1, 2]
+  },
+  {
+    "id": 36,
+    "name": "Wendy S.",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/c/cc/Wendy.jpg/revision/latest?cb=20170721162715",
+    "nickname": "Wendy",
+    "status": "Alive",
+    "occupation": ["Prostitute"],
+    "birthday": "Unknown",
+    "appearance": [1, 2, 3]
+  },
+  {
+    "id": 37,
+    "name": "Bogdan Wolynetz",
+    "image": "https://i.pinimg.com/originals/d5/c0/34/d5c0345ae70fbdbaa33b7537d685da54.jpg",
+    "nickname": "Bogdan",
+    "status": "Alive",
+    "occupation": ["Former owner of A1A Car Wash"],
+    "birthday": "Unknown",
+    "appearance": [1, 3, 4]
+  },
+  {
+    "id": 38,
+    "name": "Ken",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/8/8c/Ken.png/revision/latest?cb=20170721163649",
+    "nickname": "Ken Wins",
+    "status": "Alive",
+    "occupation": ["Stock Broker"],
+    "birthday": "Unknown",
+    "appearance": [1]
+  },
+  {
+    "id": 39,
+    "name": "Holly White",
+    "image": "https://static.wikia.nocookie.net/breakingbad/images/0/08/Tumblr_lqddc79K9S1qc5omm.png/revision/latest?cb=20111012055605",
+    "nickname": "Holly",
+    "status": "Alive",
+    "occupation": ["Infant"],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4, 5]
+  },
+  {
+    "id": 40,
+    "name": "George Merkert",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkwMTkxNjUzM15BMl5BanBnXkFtZTgwMTg5MTczMTE@._V1_UY317_CR175,0,214,317_AL_.jpg",
+    "nickname": "ASAC Merkert",
+    "status": "Alive",
+    "occupation": ["Former Head of Albuquerque DEA"],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4, 5]
+  },
+  {
+    "id": 41,
+    "name": "Donald Margolis",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/1/12/Donald_Margolis.png/revision/latest?cb=20120802212034",
+    "nickname": "Jane's dad",
+    "status": "Unknown",
+    "occupation": ["Air-Traffic Controller", "Landlord"],
+    "birthday": "Unknown",
+    "appearance": [2, 3]
+  },
+  {
+    "id": 42,
+    "name": "Clovis",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/0/0f/Clovis.JPG/revision/latest?cb=20100415221013",
+    "nickname": "Clovis",
+    "status": "Alive",
+    "occupation": ["Mechanic"],
+    "birthday": "Unknown",
+    "appearance": [2, 3]
+  },
+  {
+    "id": 43,
+    "name": "SAC Ramey",
+    "image": "https://res.cloudinary.com/dwvrok1le/image/upload/v1539360786/o7thsjdorobfbetqaefj.jpg",
+    "nickname": "SAC Ramey",
+    "status": "Alive",
+    "occupation": ["DEA agent"],
+    "birthday": "Unknown",
+    "appearance": [2, 4, 5]
+  },
+  {
+    "id": 44,
+    "name": "Victor",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/4/48/Victor2.png/revision/latest?cb=20131009225027",
+    "nickname": "Victor",
+    "status": "Deceased",
+    "occupation": ["Henchman of Gustavo Fring"],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4]
+  },
+  {
+    "id": 45,
+    "name": "Tomás Cantillo",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/e/ec/Tomas.png/revision/latest?cb=20130131043014",
+    "nickname": "Andrea's brother",
+    "status": "Deceased",
+    "occupation": ["Kid", "Gang member for a rival dealer in ABQ"],
+    "birthday": "Unknown",
+    "appearance": [2, 3]
+  },
+  {
+    "id": 46,
+    "name": "Francesca Liddy",
+    "image": "https://res.cloudinary.com/dwvrok1le/image/upload/v1539362182/o9mstjonfn6dsdi3uij6.jpg",
+    "nickname": "Honey Tits",
+    "status": "Alive",
+    "occupation": [
+      "Department of Motor Vehicles",
+      "Secretary for Saul Goodman Associates"
+    ],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4, 5]
+  },
+  {
+    "id": 47,
+    "name": "Cynthia",
+    "image": "https://res.cloudinary.com/dwvrok1le/image/upload/v1539362375/z63youp272k5mbqbuqj9.jpg",
+    "nickname": "Cynthia",
+    "status": "Alive",
+    "occupation": ["Los Pollos Hermanos Manager"],
+    "birthday": "Unknown",
+    "appearance": [2, 3, 4]
+  },
+  {
+    "id": 48,
+    "name": "Tortuga",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/5/58/BBWA_Tortuga.jpg/revision/latest?cb=20131101172007",
+    "nickname": "Tortuga",
+    "status": "Deceased",
+    "occupation": ["Juarez Cartel member", "DEA informant"],
+    "birthday": "Unknown",
+    "appearance": [2, 3]
+  },
+  {
+    "id": 49,
+    "name": "Tim Roberts",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/8/8d/2x02_-_Tim_Roberts.jpg/revision/latest?cb=20110927053954",
+    "nickname": "Detective Roberts",
+    "status": "Alive",
+    "occupation": ["Detective for the APD"],
+    "birthday": "Unknown",
+    "appearance": [2, 4]
+  },
+  {
+    "id": 50,
+    "name": "Juan Bolsa",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/3/38/Bolsa.png/revision/latest?cb=20180825204033",
+    "nickname": "Don Juan",
+    "status": "Deceased",
+    "occupation": ["Mexican drug cartel boss"],
+    "birthday": "Unknown",
+    "appearance": [3, 4]
+  },
+  {
+    "id": 51,
+    "name": "Group Leader",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/8/81/Group_Leader_Brown_Shirt_-_Kafkaesque.png/revision/latest?cb=20131025095333",
+    "nickname": "Counselor",
+    "status": "Alive",
+    "occupation": ["Drug & Alcohol Rehabilitation Counselor"],
+    "birthday": "Unknown",
+    "appearance": [3, 4]
+  },
+  {
+    "id": 52,
+    "name": "Kaylee Ehrmantraut",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/c/cc/Kaylee.png/revision/latest?cb=20170810082843",
+    "nickname": "Mike's Granddaughter",
+    "status": "Alive",
+    "occupation": ["Kid"],
+    "birthday": "Unknown",
+    "appearance": [3, 5]
+  },
+  {
+    "id": 53,
+    "name": "Pamela",
+    "image": "https://res.cloudinary.com/dwvrok1le/image/upload/v1539373707/bbb6muek0tcmbc3g2sog.jpg",
+    "nickname": "Skyler's attorney",
+    "status": "Alive",
+    "occupation": ["Attorney"],
+    "birthday": "Unknown",
+    "appearance": [3]
+  },
+  {
+    "id": 54,
+    "name": "Duane Chow",
+    "image": "https://res.cloudinary.com/dwvrok1le/image/upload/v1539373871/ssk1t4hvo9tmhvdt5hcn.jpg",
+    "nickname": "Chow",
+    "status": "Deceased",
+    "occupation": ["Owner of Golden Moth Chemical"],
+    "birthday": "Unknown",
+    "appearance": [3, 5]
+  },
+  {
+    "id": 55,
+    "name": "Stacey Ehrmantraut",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/b/b3/StaceyEhrmantraut.png/revision/latest?cb=20150310150049",
+    "nickname": "Mike's daugter-in-law",
+    "status": "Alive",
+    "occupation": ["Mother"],
+    "birthday": "Unknown",
+    "appearance": [3]
+  },
+  {
+    "id": 56,
+    "name": "Officer Saxton",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/f/f3/Officer_Saxton_-_I.F.T..png/revision/latest?cb=20131025090606",
+    "nickname": "Saxton",
+    "status": "Alive",
+    "occupation": ["APD Officer"],
+    "birthday": "Unknown",
+    "appearance": [3]
+  },
+  {
+    "id": 57,
+    "name": "Jack Welker",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/c/ce/Jack5x13.png/revision/latest?cb=20130912225922",
+    "nickname": "Uncle Jack",
+    "status": "Deceased",
+    "occupation": ["Criminal Gang Leader"],
+    "birthday": "Unknown",
+    "appearance": [5]
+  },
+  {
+    "id": 112,
+    "name": "Kimberly Wexler",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/f/f7/BCS_S4_Kim_Wexler.jpg/revision/latest?cb=20180824195845",
+    "nickname": "Kim",
+    "status": "Alive",
+    "occupation": ["Lawyer"],
+    "birthday": "Unknown",
+    "appearance": []
+  },
+  {
+    "id": 113,
+    "name": "Howard Hamlin",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/5/57/BCS_S4_Howard_Hamlin.jpg/revision/latest?cb=20180824195855",
+    "nickname": "Howard",
+    "status": "Alive",
+    "occupation": ["Lawyer"],
+    "birthday": "Unknown",
+    "appearance": []
+  },
+  {
+    "id": 114,
+    "name": "Charles McGill",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/3/3e/BCS_S3_ChuckMcGill.jpg/revision/latest?cb=20170327185308",
+    "nickname": "Chuck",
+    "status": "Deceased",
+    "occupation": ["Lawyer"],
+    "birthday": "Unknown",
+    "appearance": []
+  },
+  {
+    "id": 115,
+    "name": "Ignacio Varga",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/b/b1/BCS_S4_Nacho_Varga.jpg/revision/latest?cb=20180824195910",
+    "nickname": "Nacho",
+    "status": "Alive",
+    "occupation": ["Crimal Gang Lieutenant"],
+    "birthday": "Unknown",
+    "appearance": []
+  },
+  {
+    "id": 116,
+    "name": "Eduardo Salamanca",
+    "image": "https://vignette.wikia.nocookie.net/breakingbad/images/8/85/LaloProfileBCS.png/revision/latest?cb=20180925050152",
+    "nickname": "Lalo",
+    "status": "Alive",
+    "occupation": ["Cartel Member"],
+    "birthday": "Unknown",
+    "appearance": []
+  },
+  {
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+    "name": "Carlos",
+    "nickname": "Carlitos",
+    "birthday": "13.03.1992",
+    "status": "Alive",
+    "imagen": null,
+    "createdInDb": true,
+    "createdAt": "2022-11-23T04:11:53.647Z",
+    "updatedAt": "2022-11-23T04:11:53.647Z",
+    "occupations": [{ "name": "High School Chemistry Teacher" }]
+  },
+  {
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a55",
+    "name": "Carlos Mario",
+    "nickname": "El trader",
+    "birthday": "13-03-1992",
+    "status": "Alive",
+    "imagen": null,
+    "createdInDb": true,
+    "createdAt": "2022-11-25T00:47:18.745Z",
+    "updatedAt": "2022-11-25T00:47:18.745Z",
+    "occupations": [{ "name": "High School Chemistry Teacher" }]
+  },
+  {
+    "id": "a38ffa77-49cf-4efe-b081-d729d01ed0a5",
+    "name": "Mario",
+    "nickname": "Pena",
+    "birthday": "10-10-2000",
+    "status": "Alive",
+    "imagen": null,
+    "createdInDb": true,
+    "createdAt": "2022-11-25T00:48:47.286Z",
+    "updatedAt": "2022-11-25T00:48:47.286Z",
+    "occupations": [{ "name": "Cartel Hitman" }]
+  },
+  {
+    "id": "6d7b9741-9c77-4702-9823-713038a4ef7a",
+    "name": "Gabriel",
+    "nickname": "El azucarero",
+    "birthday": "01-01-1943",
+    "status": "Alive",
+    "imagen": null,
+    "createdInDb": true,
+    "createdAt": "2022-11-25T13:07:08.089Z",
+    "updatedAt": "2022-11-25T13:07:08.089Z",
+    "occupations": [{ "name": "Meth Distributor" }]
+  }
+]
